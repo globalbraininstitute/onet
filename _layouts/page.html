@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<html>
+	{% include head.html %}
+
+	<body>
+		{% include navigation.html %}
+
+	<div class="page-contents">
+		<article class="post">
+
+  		<h1>{{ page.title }}</h1>
+
+		  <div class="entry">
+		    {{ content }}
+		  </div>
+
+		{% if page.comments %}
+			{% include disqus.html %} 
+		{% endif %}
+		</article>
+	</div>
+
+
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
