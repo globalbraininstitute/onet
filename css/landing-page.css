@@ -67,6 +67,19 @@ iframe {
     margin-bottom: 1%;
 }
 
+.img-gbhead {
+    margin-top: 20px;
+    margin-bottom: 180px;
+}
+
+.page-title {
+    margin-top: 30px;
+}
+
+.page-subtitle {
+    margin-bottom: 120px;
+}
+
 .img-responsive {
     width: 280px;
 }
@@ -89,7 +102,7 @@ iframe {
     padding-bottom: 0px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/neuron_spark.jpg) no-repeat center center;
+    background: url(../img/city_company.jpg) no-repeat center center;
     background-size: cover;
 }
 
