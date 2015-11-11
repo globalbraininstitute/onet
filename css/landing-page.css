@@ -73,7 +73,7 @@ iframe {
 }
 
 .page-title {
-    margin-top: 30px;
+    margin-top: 300px;
 }
 
 .page-subtitle {
@@ -98,11 +98,11 @@ iframe {
 
 .intro-header {
 
-    padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 0px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/city_company.jpg) no-repeat center center;
+    background: url(../img/background/world_network.gif) no-repeat center center;
     background-size: cover;
 }
 
