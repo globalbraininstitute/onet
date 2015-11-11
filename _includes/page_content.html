@@ -1,7 +1,6 @@
 <!-- Page Content -->
 <div class="main-heading" id="speakers">
             <h1 class="main-section-heading">Speakers</h1>
-            <p class ="main-section-heading">(click on picture for an abstract)</p>
 </div>
 
 {% for post in site.posts reversed %}
@@ -20,7 +19,7 @@
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 col-sm-6">
                     <a href="{{ post.link }}">
-                        <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                        <img class="img-responsive right" src="img/services/{{ post.img }}" alt="">
                     </a>
                 </div>
             </div>

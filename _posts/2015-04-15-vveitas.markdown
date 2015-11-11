@@ -1,10 +1,10 @@
 ---
-title: Contributed talk&#58; Viktoras Veitas and Weaver (David Weinbaum)
+title: <a href='https://vveitas.wordpress.com/' target='blank'>Viktoras Veitas</a>
 layout: default
 date: 2015-04-15
 img: ../people/viktoras.png
 link: speakers/vveitas
 category: Speakers
 description: |
- <p class="lead">Living Cognitive Society: a "digital" World of Views</p>
+ <p class="lead"><a href="speakers/vveitas">Bootstrapping an Open Value Network&#58; A proposal for collaboration</a></p>
 ---

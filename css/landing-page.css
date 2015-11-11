@@ -11,6 +11,10 @@ html {
     height: 100%;
 }
 
+a {
+}
+
+
 body,
 h1,
 h2,
@@ -25,6 +29,7 @@ h6 {
 p {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 500;
+    font-size: 14pt;
 }
 
 li {
@@ -61,6 +66,18 @@ th {
     text-align: center;
 }
 
+img.right{
+    display:block;
+    float:right;
+}
+
+img.left{
+    margin-top:0px;
+    margin-right:0px;
+    display:block;
+    float:left;
+}
+
 iframe {
     border:10px solid #000;
     border-radius: 10px !important;
@@ -82,7 +99,7 @@ iframe {
 }
 
 .page-title h1 {
-    
+
 }
 
 .page-subtitle {
@@ -90,7 +107,7 @@ iframe {
 }
 
 .img-responsive {
-    width: 280px;
+    width: 260px;
 }
 
 .lead {
@@ -100,7 +117,7 @@ iframe {
 
 .page-contents{
     position: relative;
-    padding: 18%;
+    padding: 22%;
     padding-top: 50px;
     padding-bottom: 10px;
 }
@@ -207,9 +224,9 @@ p.main-section-heading {
 }
 
 .banner {
-    padding: 60px 0;
+    padding: 15px 0;
     color: #f8f8f8;
-    background: url(../img/net_arround_globe_blue.jpg) no-repeat center center;
+    background: url(../img/neuron_spark.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -225,7 +242,7 @@ p.main-section-heading {
 
 .banner-social-buttons {
     float: right;
-    margin-top: 0;
+    margin-top: 110px;
 }
 
 @media(max-width:1199px) {

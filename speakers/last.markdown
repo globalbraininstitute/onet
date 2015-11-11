@@ -8,19 +8,7 @@ comments: true
 
 ---
 
-## Self-actualization in the Commons
+## Exploring the Global Commons: A (Post-Capitalist, Post-State) Humanist Age Constructed on the Foundation of Automated Access and Collaborative Offer Networks
 
-<div class="button-section">
-  <a class="btn btn-default" href="../last-abstract">Abstract (HTML)</a>
-  <a class="btn btn-default" href="../../files/last-abstract.pdf">Extended abstract (PDF)</a>
-</div>
-
-<div>
-  <iframe width="700" height="393" src="https://www.youtube.com/embed/Co3RsKGNzT4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-## Links:
-
-[Personal webpage](http://www.cadelllast.com)
 
 ## Questions and comments

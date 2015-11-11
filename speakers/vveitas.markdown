@@ -1,5 +1,5 @@
 ---
-title: Viktoras Veitas and Weaver (David Weinbaum)
+title: Viktoras Veitas
 layout: page
 speaker: true
 categories: [speaker]
@@ -8,21 +8,7 @@ comments: false
 
 ---
 
-## Living Cognitive Society: a ‘digital’ World of Views
-
-<div class="button-section">
-  <a class="btn btn-default" href="../vveitas-abstract">Abstract (HTML)</a>
-  <a class="btn btn-default" href="../../files/vveitas-abstract.pdf">Extended abstract (PDF)</a>
-  <a class="btn btn-default" href="http://freedomandconstraint.github.io/vienna2015presentation">Presentation (HTML)</a>
-</div>
-
-<div>
-  <iframe width="700" height="393" src="https://www.youtube.com/embed/-IxpyryFNeQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
-## Links:
-
-[Blog (Cogmach)](http://vveitas.wordpress.com)
+## Bootstrapping an Open Value Network&#58; A proposal for collaboration
 
 ## Questions and comments
 
