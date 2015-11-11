@@ -67,17 +67,26 @@ iframe {
     margin-bottom: 1%;
 }
 
+.img-sharing-economy {
+    padding-top: 5px;
+    margin-bottom: 0px;
+}
+
 .img-gbhead {
-    margin-top: 20px;
-    margin-bottom: 180px;
+    padding-top: 0px;
+    margin-bottom: 0px;
 }
 
 .page-title {
-    margin-top: 300px;
+    padding-top: 30px;
+}
+
+.page-title h1 {
+    
 }
 
 .page-subtitle {
-    margin-bottom: 120px;
+    padding-bottom: 30px;
 }
 
 .img-responsive {
@@ -97,12 +106,11 @@ iframe {
 }
 
 .intro-header {
-
-    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 10px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 0px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/background/world_network.gif) no-repeat center center;
+    background-color: #125160;
     background-size: cover;
 }
 
