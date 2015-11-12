@@ -8,7 +8,9 @@ comments: true
 
 ---
 
-## Exploring the Global Commons: A (Post-Capitalist, Post-State) Humanist Age Constructed on the Foundation of Automated Access and Collaborative Offer Networks
+## Exploring the Global Commons 
+
+A (Post-Capitalist, Post-State) Humanist Age Constructed on the Foundation of Automated Access and Collaborative Offer Networks
 
 
 ## Questions and comments
