@@ -7,7 +7,7 @@ date: 2015-11-11
 comments: false
 ---
 
-Here are some of the articles and other written resources on Offer Networks and the ideas we will be discussing in the workshop:
+Here are some of the articles and other written resources on Offer Networks and the ideas we will be discussing during the workshop:
 
 * Goertzel, Ben. ["Beyond Money: Offer Networks, a Potential Infrastructure for a Post-Money Economy.”]({{site.baseurl}}/files/offer_networks.pdf) In [The End of the Beginning: Life, Society and Economy on the Brink of the Singularity](http://goertzel.org/End_of_the_Beginning_July_2015.pdf), edited by Ben Goertzel and Ted Goertzel, 1 edition., 522–554. Humanity+ Press, 2015.
 
