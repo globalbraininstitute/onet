@@ -87,6 +87,9 @@ iframe {
 .img-sharing-economy {
     padding-top: 5px;
     margin-bottom: 0px;
+    width: 35vw;
+    max-width: 400px;
+    min-width: 200px;
 }
 
 .img-gbhead {
@@ -107,7 +110,7 @@ iframe {
 }
 
 .img-responsive {
-    width: 260px;
+    width: 250px;
 }
 
 .lead {
