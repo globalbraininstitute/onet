@@ -4,7 +4,7 @@ layout: page
 speaker: true
 categories: [speaker]
 date: 2015-04-15
-comments: false
+comments: true
 
 ---
 

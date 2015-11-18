@@ -9,7 +9,7 @@ comments: false
 
 ###Location:
 
-The workshop will take place at Vrije Universiteit Brussel, Pleinlaan 2 1050 Brussel.
+The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Brussels](https://www.google.be/maps/place/Vrije+Universiteit+Brussel/@50.8230583,4.3925353,15z/data=!4m2!3m1!1s0x0:0x34a700e47f2f7fc5).
 
 ###Schedule:
 
