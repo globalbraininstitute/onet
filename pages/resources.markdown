@@ -19,6 +19,8 @@ Here are some of the articles and other written resources on Offer Networks and 
 
 * [Webofneeds: A distributed marketplace driven by customer needs](http://researchstudio-sat.github.io/webofneeds/), project's gh-page by [RSA-SAT](http://sat.researchstudio.at/en);
 
+* [Open Value Networks](http://valuenetwork.referata.com/wiki/Main_Page), Wiki;
+
 * Odom, Chris. [“The World’s First Decentralized System for Financial and Legal Transaction.”]({{site.baseurl}}/files/decentralized_transactions.pdf) In [The End of the Beginning: Life, Society and Economy on the Brink of the Singularity](http://goertzel.org/End_of_the_Beginning_July_2015.pdf), edited by Ben Goertzel and Ted Goertzel, 1 edition., 503–521. Humanity+ Press, 2015.
 
 
