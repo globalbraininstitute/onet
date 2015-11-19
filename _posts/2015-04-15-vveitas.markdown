@@ -6,5 +6,5 @@ img: ../people/viktoras.png
 link: speakers/vveitas
 category: Speakers
 description: |
- <p class="lead"><a href="speakers/vveitas">Bootstrapping a GBI Open Value Network&#58; A proposal for collaboration</a></p>
+ <p class="lead"><a href="speakers/vveitas">Bootstrapping a GBI Open Value Network</a></p>
 ---
