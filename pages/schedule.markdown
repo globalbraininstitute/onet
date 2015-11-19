@@ -9,7 +9,7 @@ comments: false
 
 ###Location:
 
-The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Brussels](https://www.google.be/maps/place/Vrije+Universiteit+Brussel/@50.8230583,4.3925353,15z/data=!4m2!3m1!1s0x0:0x34a700e47f2f7fc5). The room will be announced here as soon as we know it.
+The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Brussels](https://www.google.be/maps/place/Vrije+Universiteit+Brussel/@50.8230583,4.3925353,15z/data=!4m2!3m1!1s0x0:0x34a700e47f2f7fc5), room <strong>M015</strong>.
 
 ###Schedule:
 
@@ -23,7 +23,7 @@ The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Br
 
 <strong>Lunch</strong>|
 
-|14:15 - 15:15| Ben Geortzel | <a href="{{site.baseurl}}/speakers/ben/">Transitioning to a Post-Employment, Post-Scarcity, Post-Money Economy in Which Collective Human and Machine Meaning Making Reigns</a>|
+|14:15 - 15:15| Ben Goertzel | <a href="{{site.baseurl}}/speakers/ben/">Transitioning to a Post-Employment, Post-Scarcity, Post-Money Economy in Which Collective Human and Machine Meaning Making Reigns</a>|
 |15:15 - 15:45| Discussion | |
 
 |<strong>Coffee break</strong>|
