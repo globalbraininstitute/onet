@@ -1,0 +1,11 @@
+---
+title: <a href='http://noubel.com/about' target='blank'>Jean-François Noubel</a>
+layout: default
+date: 2015-02-17
+img: ../people/noubel.png
+link: speakers/noubel
+category: Speakers
+description: |
+    <p class="lead"><a href="speakers/noubel">Title to be announced</a></p>
+
+---
