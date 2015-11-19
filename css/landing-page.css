@@ -41,16 +41,16 @@ td {
   padding: 0.2%;
   font-weight: normal;
   vertical-align: top;
+  font-size:120%;
 }
 
 tr:nth-child(even) {
   background: #CCC;
 }
 
-tr td:first-child { width: 100px; }
+tr td:first-child { width: 150px; }
 tr td:nth-child(2) { width: 150px; }
-tr td:nth-child(3) { width: 450px; }
-tr td:nth-child(4) { width: 100px; }
+tr td:nth-child(3) { width: 550px; }
 
 th {
   padding: 1%;

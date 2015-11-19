@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-## Bootstrapping an Open Value Network&#58; A proposal for collaboration
+## Bootstrapping a GBI Open Value Network
 
 ## Questions and comments
 
