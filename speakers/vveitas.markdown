@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-## Bootstrapping a GBI Open Value Network
+## Bootstrapping the GBI Open Value Network
 
 ## Questions and comments
 
