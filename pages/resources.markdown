@@ -11,7 +11,7 @@ Here are some of the articles and other written resources on Offer Networks and 
 
 * Goertzel, Ben. ["Beyond Money: Offer Networks, a Potential Infrastructure for a Post-Money Economy.”]({{site.baseurl}}/files/offer_networks.pdf) In [The End of the Beginning: Life, Society and Economy on the Brink of the Singularity](http://goertzel.org/End_of_the_Beginning_July_2015.pdf), edited by Ben Goertzel and Ted Goertzel, 1 edition., 522–554. Humanity+ Press, 2015.
 
-* Heylighen, Francis. <a href="http://pespmc1.vub.ac.be/Papers/GB-OfferNetwork.pdf">Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain</a>, 2015. 
+* Heylighen, Francis. [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain]({{site.baseurl}}/files/GB-OfferNetwork.pdf), 2015. 
 
 * Last, Cadell. <a href="https://cadelllast.files.wordpress.com/2012/12/offer-networks.pdf">Offer Networks</a>, 2015.
 
