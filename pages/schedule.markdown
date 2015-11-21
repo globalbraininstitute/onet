@@ -28,7 +28,7 @@ The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Br
 
 |<strong>Coffee break</strong>|
 
-|16:15 - 17:00| Viktoras Veitas | <a href="{{site.baseurl}}/speakers/vveitas/">Bootstrapping a GBI Open Value Network</a>|
+|16:15 - 17:00| Viktoras Veitas | <a href="{{site.baseurl}}/speakers/vveitas/">Bootstrapping the GBI Open Value Network</a>|
 |17:00 - 18:00 | General discussion | |
 
 
