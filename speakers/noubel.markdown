@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-## Title to be announced
+## Ceptr: Building a Semantic, Mashable, Fully Decentralized Internet
 
 ## Questions and comments
 
