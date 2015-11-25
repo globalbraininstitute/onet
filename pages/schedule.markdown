@@ -17,11 +17,11 @@ The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Br
 |:---|---|---|---:|
 |10:00 - 11:00| Francis Heylighen | <a href="{{site.baseurl}}/speakers/francis/">Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain</a>|
 |11:00 - 11:30| Discussion | | 
-|11:30 - 12:00| Jean-François Noubel | To be announced |
+|11:30 - 12:00| Jean-François Noubel | <a href="{{site.baseurl}}/speakers/noubel/">Ceptr: Building a Semantic, Mashable, Fully Decentralized Internet</a> (to be confirmed)|
 |12:00 - 12:45| Cadell Last | <a href="speakers/last">Exploring the Global Commons</a> |
 |12:15 - 13:15| Discussion | |
 
-<strong>Lunch</strong>|
+<strong>Lunch in VUB restaurant</strong>|
 
 |14:15 - 15:15| Ben Goertzel | <a href="{{site.baseurl}}/speakers/ben/">Transitioning to a Post-Employment, Post-Scarcity, Post-Money Economy in Which Collective Human and Machine Meaning Making Reigns</a>|
 |15:15 - 15:45| Discussion | |
@@ -29,7 +29,7 @@ The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Br
 |<strong>Coffee break</strong>|
 
 |16:15 - 17:00| Viktoras Veitas | <a href="{{site.baseurl}}/speakers/vveitas/">Bootstrapping the GBI Open Value Network</a>|
-|17:00 - 18:00 | General discussion | |
+|17:00 - 18:00 | General discussion: | how can we best collaborate on implementing this vision? |
 
 
 
