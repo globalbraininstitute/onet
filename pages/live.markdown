@@ -9,7 +9,9 @@ comments: false
 
 ## Video stream
 
-The workshop will be streamed live on [GBI YouTube channel](https://www.youtube.com/user/GlobalBrainInstitute). Also, recorded and edited videos will be put on the [GBI YouTube channel](https://www.youtube.com/channel/UC35JwRtHLC83k8lOgX263Tw) a few days later. Please follow twitter streams [#globalbrain](https://twitter.com/hashtag/globalbrain) and/or #offernetworks for more information.
+The workshop will be streamed live on [GBI YouTube channel](https://www.youtube.com/user/GlobalBrainInstitute). Also, recorded and edited videos will be put on the [GBI YouTube channel](https://www.youtube.com/channel/UC35JwRtHLC83k8lOgX263Tw) a few days later. Please follow twitter streams [#globalbrain](https://twitter.com/hashtag/globalbrain) for more information.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_KjL8bRP8A" frameborder="0" allowfullscreen></iframe>
 
 ##Twitter streams:
 
