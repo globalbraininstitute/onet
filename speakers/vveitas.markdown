@@ -10,5 +10,12 @@ comments: true
 
 ## Bootstrapping the GBI Open Value Network
 
+
+[Presentation slides](https://globalbraininstitute.github.io/gbi-ovn/)
+
+[Prototype of a collaboration site](https://ovn.globalbraininstitute.org)
+
+
+
 ## Questions and comments
 
