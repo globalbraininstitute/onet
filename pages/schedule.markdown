@@ -17,7 +17,7 @@ The workshop will take place at Vrije Universiteit Brussel, [Pleinlaan 2 1050 Br
 |:---|---|---|---:|
 |10:00 - 11:00| Francis Heylighen | <a href="{{site.baseurl}}/speakers/francis/">Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain</a>|
 |11:00 - 11:30| Discussion | | 
-|11:30 - 12:00| Jean-François Noubel | <a href="{{site.baseurl}}/speakers/noubel/">Ceptr: Building a Semantic, Mashable, Fully Decentralized Internet</a> (to be confirmed)|
+|11:30 - 12:00| Jean-François Noubel | <a href="{{site.baseurl}}/speakers/noubel/">Ceptr: Building a Semantic, Mashable, Fully Decentralized Internet</a>|
 |12:00 - 12:45| Cadell Last | <a href="speakers/last">Exploring the Global Commons</a> |
 |12:15 - 13:15| Discussion | |
 

@@ -6,6 +6,6 @@ img: ../people/noubel.png
 link: speakers/noubel
 category: Speakers
 description: |
-    <p class="lead"><a href="speakers/noubel">Ceptr: Building a Semantic, Mashable, Fully Decentralized Internet</a> (to be confirmed)</p>
+    <p class="lead"><a href="speakers/noubel">Ceptr: Building a Semantic, Mashable, Fully Decentralized Internet</a></p>
 
 ---
