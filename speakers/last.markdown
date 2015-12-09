@@ -10,7 +10,6 @@ comments: true
 
 ## Exploring the Global Commons 
 
-A (Post-Capitalist, Post-State) Humanist Age Constructed on the Foundation of Automated Access and Collaborative Offer Networks
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8r_Fg7TWVq0" frameborder="0" allowfullscreen></iframe>
 
 ## Questions and comments
